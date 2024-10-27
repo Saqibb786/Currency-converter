@@ -26,8 +26,6 @@ To run the project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/currency-converter.git
    cd currency-converter
-   Install dependencies: Make sure you have Flutter installed. Then, run:
-
    ```
 
 2. **Install dependencies: Make sure you have Flutter installed. Then, run:**
